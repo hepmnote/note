@@ -1,0 +1,16 @@
+/nginx/*.dbindex
+/android/*.dbindex
+/bookmarks/*.dbindex
+/go/*.dbindex
+/ios/*.dbindex
+/linux/*.dbindex
+/manager/*.dbindex
+/mysql/*.dbindex
+/nginx/*.dbindex
+/php/*.dbindex
+/redis/*.dbindex
+/todo/*.dbindex
+/安全/*.dbindex
+/工作常用/*.dbindex
+/架构/*.dbindex
+/非技术/*.dbindex
